@@ -1,0 +1,42 @@
+body {
+    background: url("https://media.giphy.com/media/3o7TKBf6kpLJaZNDna/giphy.gif") repeat;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+  }
+
+.text{
+    color: cyan;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#Presentation{
+    font-size:50px;
+}
+
+.formulario{
+    margin-top: 20%;
+}
+
+button{
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: cyan;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+input{
+    width: 50%;
+    height: 100%;
+    border-radius: 10%;
+    font-size: x-large;
+}
